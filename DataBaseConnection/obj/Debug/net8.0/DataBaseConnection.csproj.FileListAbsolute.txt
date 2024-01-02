@@ -1,0 +1,14 @@
+C:\Users\krojas\Documents\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.exe
+C:\Users\krojas\Documents\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.deps.json
+C:\Users\krojas\Documents\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.runtimeconfig.json
+C:\Users\krojas\Documents\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.dll
+C:\Users\krojas\Documents\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.pdb
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.AssemblyInfoInputs.cache
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.AssemblyInfo.cs
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.dll
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\refint\DataBaseConnection.dll
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.pdb
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.genruntimeconfig.cache
+C:\Users\krojas\Documents\DataBaseConnection\obj\Debug\net8.0\ref\DataBaseConnection.dll
