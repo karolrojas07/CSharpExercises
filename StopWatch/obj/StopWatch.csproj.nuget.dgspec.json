@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krojas\\Documents\\CSharp Course\\StopWatch\\StopWatch.csproj": {}
+    "C:\\Users\\krojas\\Documents\\CSharp Exercises\\StopWatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krojas\\Documents\\CSharp Course\\StopWatch\\StopWatch.csproj": {
+    "C:\\Users\\krojas\\Documents\\CSharp Exercises\\StopWatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krojas\\Documents\\CSharp Course\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\krojas\\Documents\\CSharp Exercises\\StopWatch\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "C:\\Users\\krojas\\Documents\\CSharp Course\\StopWatch\\StopWatch.csproj",
+        "projectPath": "C:\\Users\\krojas\\Documents\\CSharp Exercises\\StopWatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\krojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krojas\\Documents\\CSharp Course\\StopWatch\\obj\\",
+        "outputPath": "C:\\Users\\krojas\\Documents\\CSharp Exercises\\StopWatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

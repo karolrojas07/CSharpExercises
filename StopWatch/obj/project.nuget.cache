@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FpwsplbMVRWYgiTxPWEGgUXiWseYJs6j05k8xEkEBU2KgatXhCVL6KADRlPBrusFhbSrZuwLnO9BltGSWeVcyA==",
+  "dgSpecHash": "Ptit4VbTNlWZgfb+UBRo+bLgdbKSjHxT9ygxehQ0xE1f8Wd3CSRuO+vALbV+AsohQRdy+oXBlrP0ji7WOeDxJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krojas\\Documents\\CSharp Course\\StopWatch\\StopWatch.csproj",
+  "projectFilePath": "C:\\Users\\krojas\\Documents\\CSharp Exercises\\StopWatch\\StopWatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

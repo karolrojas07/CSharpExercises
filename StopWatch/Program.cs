@@ -3,7 +3,7 @@
 
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        //Console.WriteLine("Hello, World!");
         StopWatch stopwatch = new StopWatch();
         stopwatch.Start();
         Thread.Sleep(3000);
